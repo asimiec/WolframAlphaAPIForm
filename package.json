@@ -1,0 +1,22 @@
+{
+  "name": "wlf",
+  "version": "1.0.0",
+  "description": "A  API",
+  "main": "index.js",
+  "author": "Asim",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "body-parser-xml": "^1.1.0",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "wolfram-alpha-api": "^1.0.0-rc.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
